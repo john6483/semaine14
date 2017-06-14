@@ -4,7 +4,7 @@
 #              end
 # 2/ une variable (number) pour afficher puis incrémenter de 1 à 100
 # 3/ trois tests
-#			3.1/ number modulo 3 = 0
+#	    3.1/ number modulo 3 = 0
 #           3.2/ number modulo 5 = 0
 #           3.3/ number modulo 3 AND number modulo 5
 
