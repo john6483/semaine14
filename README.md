@@ -10,3 +10,5 @@ algoritme du FizzBuzz <br>
 trois solutions sont proposés ici <br>
 une pour les débutants <br>
 les deux pour les <b> experts /très confirmés en Ruby </b><br>
+fb_confirm.rb <br>
+fb_expert.rb <br><br>
